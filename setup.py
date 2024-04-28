@@ -9,5 +9,5 @@ setup(
     install_requires=["langchain","langchainhub","bs4","tiktoken","openai","boto3==1.34.37","langchain_community","chromadb","awscli",
 "streamlit",
 "pypdf",
-"faiss-cpu","boto3==1.34.37","langchain_community","aws-cli"]
+"faiss-cpu","boto3==1.34.37","langchain_community","awscli"]
 )
